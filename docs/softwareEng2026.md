@@ -1,3 +1,10 @@
+---
+layout: page
+title:"ソフトウェア工学　2026"
+permalink: /docs/softwareEng2026
+---
+
+
 第1回 ガイダンス
 第2回・第3回 ソフトウェア工学概論
 ・ソフトウェアの定義や特徴
